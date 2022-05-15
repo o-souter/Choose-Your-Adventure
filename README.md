@@ -7,3 +7,4 @@ A "Choose your adventure" type game coded in python
 * Run the main.py file with a command similar to this:
 
 ```python3 main.py```
+* Watch out for zombies!
